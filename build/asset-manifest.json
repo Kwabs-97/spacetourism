@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.01151177.css",
-    "main.js": "/static/js/main.885625b1.js",
+    "main.css": "/static/css/main.9368f676.css",
+    "main.js": "/static/js/main.d1ff8f99.js",
     "static/media/image-douglas-hurley.png": "/static/media/image-douglas-hurley.7540fbb61923064f065e.png",
     "static/media/background-home-desktop.jpg": "/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
     "static/media/image-moon.png": "/static/media/image-moon.d287d07182de3015952f.png",
@@ -11,6 +11,7 @@
     "static/media/background-destination-tablet.jpg": "/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
     "static/media/background-technology-desktop.jpg": "/static/media/background-technology-desktop.b7b589b3c0c5ef0811d4.jpg",
     "static/media/background-crew-tablet.jpg": "/static/media/background-crew-tablet.16d51cf61e98ce45eb61.jpg",
+    "static/media/image-launch-vehicle-portrait.jpg": "/static/media/image-launch-vehicle-portrait.0c758955a178bdcc3230.jpg",
     "static/media/background-home-mobile.jpg": "/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
     "static/media/background-technology-tablet.jpg": "/static/media/background-technology-tablet.48c38b028217ee0096c4.jpg",
     "static/media/image-launch-vehicle-landscape.jpg": "/static/media/image-launch-vehicle-landscape.4281a59ff7186488fe6a.jpg",
@@ -19,11 +20,11 @@
     "static/media/logo.svg": "/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
     "static/media/icon-close.svg": "/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
     "static/media/icon-hamburger.svg": "/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
-    "main.01151177.css.map": "/static/css/main.01151177.css.map",
-    "main.885625b1.js.map": "/static/js/main.885625b1.js.map"
+    "main.9368f676.css.map": "/static/css/main.9368f676.css.map",
+    "main.d1ff8f99.js.map": "/static/js/main.d1ff8f99.js.map"
   },
   "entrypoints": [
-    "static/css/main.01151177.css",
-    "static/js/main.885625b1.js"
+    "static/css/main.9368f676.css",
+    "static/js/main.d1ff8f99.js"
   ]
 }
