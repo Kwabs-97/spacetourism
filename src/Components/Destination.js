@@ -22,7 +22,7 @@ export default function Destination() {
           </div>
         </header>
         <aside className="flex flex-col items-center md:py-4 lg:py-6">
-          <div className="py-2 md:py-2">
+          <div className="py-4 md:py-2">
             <Link className=" px-4 font-BarlowCondensed text-[#D0D6F9] md:text-lg md:px-6">
               MOON
             </Link>
@@ -44,7 +44,7 @@ export default function Destination() {
             </h1>
           </div>
 
-          <div className="px-6 lg:px-0 md:py-4">
+          <div className="px-6 lg:px-0 md:py-4 py-3">
             <h3 className="text-center font-Barlow text-[15px] leading-[25px] text-[#D0D6F9]  sm:text-[15px] sm:py-4 sm:leading-7 md:text-[16px] lg:text-lg lg:tracking-tighter md:px-20 lg:px-4 lg:text-justify">
               See our planet as you’ve never seen it before. A perfect relaxing trip away to help
               regain perspective and come back refreshed. While you’re there, take in some history
@@ -52,7 +52,7 @@ export default function Destination() {
             </h3>
           </div>
           <footer className="flex flex-col items-center  p-1 md:p-4 md:p4">
-            <div className="border-t-2 border-[#383B4B] px-14 md:grid grid-cols-2">
+            <div className="border-t-2 border-[#383B4B] px-14 md:grid grid-cols-2 py-2">
               <div className=" md:p-4 flex flex-col items-center">
                 <h3 className=" font-BarlowCondensed text-base text-[#D0D6F9] leading-4 p-2">
                   AVG. DISTANCE

@@ -14,7 +14,7 @@ function Navbar() {
   };
 
   return (
-    <nav className="sm:py-0 sm:pb-8 p-2">
+    <nav className="sm:py-0 sm:pb-8 p-3">
       <div className="nav-items flex max-w-[1240px] justify-between lg:ml-16 items-center lg:py-4 ">
         <div className="nav-item-logo px-4">
           <a href="#">
@@ -32,7 +32,7 @@ function Navbar() {
             {" "}
             {toggleOn ? <img src={close} alt="" className=" w-[24px] h-[24px]" /> : ""}
           </div>
-          <ul className="flex flex-col pl-8 pt-8">
+          <ul className="flex flex-col pl-8 pt-10">
             <NavLink
               to="/"
               className="text-white font-BarlowCondensed text-xl leading-5 tracking-[2.7px] py-4"

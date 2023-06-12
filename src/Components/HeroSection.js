@@ -4,7 +4,7 @@ import React from "react";
 
 export default function HeroSection() {
   return (
-    <main className=" px-4 flex flex-col place-items-center lg:grid grid-cols-2 lg:py-24">
+    <main className=" px-4 flex flex-col place-items-center lg:grid grid-cols-2 lg:py-24 overflow-y-hidden">
       <div className="pt-10 sm:p-20  sm:px-30 lg:p-2">
         <h2 className="text-[#D0D6F9] text-center font-BarlowCondensed leading-5 tracking-[2.7px] text-base font-normal py-2 sm:text-xl sm:py-4 lg:text-[28px] lg:leading-8">
           SO, YOU WANT TO TRAVEL TO

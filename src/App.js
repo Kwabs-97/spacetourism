@@ -11,7 +11,7 @@ import Technology from "./Components/Technology/Technology";
 
 function App() {
   return (
-    <div className="App w-screen h-screen">
+    <div className="App w-screen h-screen overflow-y-auto">
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/destination" element={<Destination />} />

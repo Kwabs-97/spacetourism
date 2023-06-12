@@ -53,7 +53,7 @@ const Technology = () => {
           </section>
           <section className="px-6 py-4 lg:py-0 lg:px-0 row-start-1">
             <div className="">
-              <h3 className="font-Bellefair text-white text-lg leading-5 opacity-[0.5] text-center pb-2 md:text-3xl md:py-4">
+              <h3 className="font-Bellefair text-white text-lg leading-5 text-opacity-[0.5] text-center pb-2 md:text-3xl md:py-4">
                 THE TERMINOLOGY
               </h3>
               <h1 className="font-Bellefair text-white leading-7 text-2xl  text-center md:text-5xl md:leading-[45.84px] md:py-4">
